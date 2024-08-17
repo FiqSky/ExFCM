@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "118741911652",
+    "project_id": "exfcm-5ef30",
+    "storage_bucket": "exfcm-5ef30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118741911652:android:cf0e3bac19df60132cb771",
+        "android_client_info": {
+          "package_name": "com.fiqsky.exfcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCixJ9WDkQQjOr6vLgCYTIAIR_ayxzZfls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
